@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "title": "Astronaut",
+      "img": "astronaut.jpg",
+      "id": 1,
+      "isFavorite": false
+    },
+    {
+      "title": "Dinosaurs",
+      "img": "dinosaurs.jpg",
+      "id": 2,
+      "isFavorite": false
+    },
+    {"title": "Heart", "img": "heart2.jpg", "id": 3, "isFavorite": false},
+    {"title": "Snail", "img": "snail.jpg", "id": 4, "isFavorite": false}
+  ]
+}
